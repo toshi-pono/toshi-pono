@@ -1,5 +1,9 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=toshi-pono&count_private=true&theme=vue)
-![GitHub Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=toshi-pono&layout=compact&theme=vue)
+| ![GitHub Stats Card] | ![GitHub Top Languages Card] |
+| -------------------- | ---------------------------- |
+
+
+[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=toshi-pono&count_private=true&theme=vue&show_icons=true&hide_border=true
+[GitHub Top Languages Card]: https://github-readme-stats.vercel.app/api/top-langs/?username=toshi-pono&layout=compact&theme=vue&hide_border=true
 
 <!--
 **toshi-pono/toshi-pono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
